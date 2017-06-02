@@ -1,0 +1,16 @@
+{
+  "name": "unitedprototype/phpga",
+  "description": "Server-Side Google Analytics Client",
+  "homepage":"http://code.google.com/p/php-ga/",
+  "autoload":{
+    "psr-0":{
+      "UnitedPrototype\\":"src/"
+    }
+  },
+  "license" : "LGPL-3.0",
+  "minimum-stability":"dev",
+  "type":"library",
+  "require": {
+    "php": ">=5.3.3"
+  }
+}
