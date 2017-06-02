@@ -1,5 +1,5 @@
 {
-  "name": "unitedprototype/phpga",
+  "name": "uprototype/phpga",
   "description": "Server-Side Google Analytics Client",
   "homepage":"http://code.google.com/p/php-ga/",
   "autoload":{
